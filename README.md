@@ -3,4 +3,5 @@ I will document all the work I had to do for using the book "Mining the Social W
 There are 10 graduate students in my spring '15 class. All of them are expected to undertake a social web project (some  may choose the paper option). Either way, I hope to provide links to their online resources here.
 
 For all the book code: https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition 
-Steps involved in installation of virtual machine: http://vimeo.com/72383764
+Steps involved in installation of virtual machine - video: http://vimeo.com/72383764
+Steps for virtual machine - with screen captures: https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix%20A%20-%20Virtual%20Machine%20Experience.html
