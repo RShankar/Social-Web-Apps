@@ -5,8 +5,8 @@ There are 10 graduate students in my spring '15 class. All of them are expected 
 For all the book code: https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition 
 Steps involved in installation of virtual machine - video: http://vimeo.com/72383764
 iPython notebook Steps for virtual machine - with screen captures: https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix%20A%20-%20Virtual%20Machine%20Experience.html
-### Assignment 1 Info
-Here are the links for Assignment 1 videos: 
+### Links for Assignment 1 videos
+
 Chris – Comprehensions – Introduction: https://vimeo.com/117989662;
 
 Chris -  Comprehensions applied to Twitter Feed : https://vimeo.com/118431898 - please post code at Github; 
