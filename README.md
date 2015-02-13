@@ -7,11 +7,11 @@ Steps involved in installation of virtual machine - video: http://vimeo.com/7238
 iPython notebook Steps for virtual machine - with screen captures: https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix%20A%20-%20Virtual%20Machine%20Experience.html
 ### Assignment 1 Info
 Here are the links for Assignment 1 videos: 
-Chris – Comprehensions – Introduction: https://vimeo.com/117989662
-Chris -  Comprehensions applied to Twitter Feed : https://vimeo.com/118431898 - please post code at Github
-Santiago – Tuples: https://drive.google.com/file/d/0B8arBmTE1WeXcU96WnZzZV9zVXM/view?pli=1
-Mofidul – Tuples: https://raw.githubusercontent.com/RShankar/Social-Web-Apps/master/Mofidul-Jamal/Assignment1.mp4
-Debra – RegEx: https://github.com/RShankar/Social-Web-Apps/blob/master/Debra-Lewis/Chapter%2011.mp4
-Kevin – Dictionary: Directly uploaded to BB. Kevin – please post it at YouTube/Vimeo and  post the link at Github
-Melissa -  Web Services: https://drive.google.com/a/fau.edu/#folders/0BxbisLdZYFOLRnphN2JUUTg4UW8 
-Bredler – Networked Programs: https://www.youtube.com/watch?v=Ouwb6TiGZWA 
+Chris – Comprehensions – Introduction: https://vimeo.com/117989662; 
+Chris -  Comprehensions applied to Twitter Feed : https://vimeo.com/118431898 - please post code at Github; 
+Santiago – Tuples: https://drive.google.com/file/d/0B8arBmTE1WeXcU96WnZzZV9zVXM/view?pli=1;
+Mofidul – Tuples: https://raw.githubusercontent.com/RShankar/Social-Web-Apps/master/Mofidul-Jamal/Assignment1.mp4;
+Debra – RegEx: https://github.com/RShankar/Social-Web-Apps/blob/master/Debra-Lewis/Chapter%2011.mp4;
+Kevin – Dictionary: Directly uploaded to BB. Kevin – please post it at YouTube/Vimeo and  post the link at Github;
+Melissa -  Web Services: https://drive.google.com/a/fau.edu/#folders/0BxbisLdZYFOLRnphN2JUUTg4UW8; 
+Bredler – Networked Programs: https://www.youtube.com/watch?v=Ouwb6TiGZWA
